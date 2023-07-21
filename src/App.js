@@ -9,6 +9,9 @@ function App() {
         <p>
           Hello Codecademy!
         </p>
+        <p>
+          Bye Codecademy!
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
